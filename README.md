@@ -12,17 +12,15 @@ Welcome to my GitHub portfolio. Passionate about coding and emerging technologie
 
 -  I’m currently learning whatever comes in way
 
-## 📈 My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SylvOne&show_icons=true&count_private=true)
-
 ## 📬 Get in Touch
 
 - **LinkedIn**: [Click here](www.linkedin.com/in/sylvain-franchot)
 
 I'm always open to new opportunities and collaborations, so feel free to reach out!
 
-## ⭐ Repos I Recommend (These projects were completed during my studies. I hold a professional certification in 'Application Development: Python', recognized at Level 6 in the French National Framework, equivalent to a Bachelor's degree.)
+## ⭐ Repos I Recommend
+
+(These projects were completed during my studies. I hold a professional certification in 'Application Development: Python', recognized at Level 6 in the French National Framework, equivalent to a Bachelor's degree.)
 
 - [Scale a Django application using a modular architecture (with pipeline CI/CD)](https://github.com/SylvOne/Python-OC-Lettings-FR)
 - [Develop a secure back-end architecture with Python and SQL](https://github.com/SylvOne/projet12)
