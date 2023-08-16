@@ -26,7 +26,3 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 - [Develop a secure back-end architecture with Python and SQL](https://github.com/SylvOne/projet12)
 - [Improve a Python web application through testing and debugging (You can view work on secondary branchs)](https://github.com/SylvOne/Python_Testing)
 - [Create a secure RESTful API using Django REST](https://github.com/SylvOne/projet10)
-
----
-
-🔔 Don't forget to check out my projects below and give a ⭐ to the repos you find interesting!
