@@ -1,4 +1,4 @@
-# Hello! I'm SylvOne 👋
+# Hello! I'm Sylvain 👋
 
 Welcome to my GitHub portfolio. Passionate about coding and emerging technologies, I share my projects, achievements, and experiences as a developer here.
 
